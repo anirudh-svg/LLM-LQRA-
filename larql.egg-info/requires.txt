@@ -1,0 +1,7 @@
+networkx
+openai
+requests
+
+[dev]
+pytest
+hypothesis
